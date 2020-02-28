@@ -9,6 +9,7 @@ body {
   padding: 0;
   font-family: sans-serif;
   height: 100%;
+  user-select: none;
 }
 
 #root {
